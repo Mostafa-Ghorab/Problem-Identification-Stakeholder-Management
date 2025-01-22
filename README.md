@@ -1,5 +1,30 @@
 # Project Report: Northwind Trading Online Store Optimization
 
+## 📌 Case Study
+
+**Company:** Northwind Trading - An eCommerce platform operating successfully for 4 years.  
+**Problem:** A 43% sales drop in March 2024 (first-ever decline) + rising social media complaints about the online store.  
+
+### 🕵️♂️ **Crisis Background:**
+1. **Website Redesign:**  
+   - Launched a new website design one month before the crisis.  
+   - Key changes included:  
+     - **New checkout process** requiring mandatory customer registration before purchase.  
+     - Visual layout improvements.  
+
+2. **Team Perspectives on Changes:**  
+   - **Marketing Team:** Needed customer data for targeted promotions and purchase history tracking.  
+   - **Website Admin (Ali):**  
+     - Reported **no technical issues** but acknowledged:  
+       - **Slower page load times** (especially with unoptimized product images).  
+       - Promised performance improvements "soon".  
+
+3. **Management's Stance:**  
+   > *"Better safe than sorry"* - Management ordered an immediate investigation despite the Sales Manager (Sua) finding "no obvious sales issues".  
+
+---
+
+
 ## DELIVERABLE 1: Qualitative and Quantitative Analysis and Recommendations
 
 ### Sales Performance Comparison: Feb 2024 (29 Days) vs. Mar 2024 (31 Days)
