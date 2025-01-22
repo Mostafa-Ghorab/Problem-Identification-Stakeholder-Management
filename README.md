@@ -79,13 +79,10 @@ The key issue lies in a poorly executed checkout redesign that prioritizes data 
 
 ### Power – Interest Grid
 
-+----------------------------------------+---------------------------------------------+
-| **Low Interest – High Influence**      | **High Interest – High Influence**          |
-| Admin/Website Manager                  | Sales Manager, Marketing Team Member        |
-+----------------------------------------+---------------------------------------------+
-| **Low Interest – Low Influence**       | **High Interest – Low Influence**           |
-| Guest User                             | Registered Customer, Customer Support Team  |
-+----------------------------------------+---------------------------------------------+
+|                                           |                                           |
+|-------------------------------------------|-------------------------------------------|
+| **Low Interest – High Influence**<br>*Admin/Website Manager*  | **High Interest – High Influence**<br>*Sales Manager, Marketing Team Member* |
+| **Low Interest – Low Influence**<br>*Guest User*              | **High Interest – Low Influence**<br>*Registered Customer, Customer Support Team* |
 
 ---
 
