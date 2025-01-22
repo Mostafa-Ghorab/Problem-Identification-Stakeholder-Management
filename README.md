@@ -4,13 +4,14 @@
 
 **Comparison Period: Feb 2024 vs. Mar 2024**
 
-| **Metric**                                  | **Feb-24**   | **Mar-24** | **Difference (Value)** | **Difference (%)** |
-|---------------------------------------------|--------------|------------|------------------------|--------------------|
-| **Total Sales Value**                       | $71,626.00   | $40,620    | $(31,006)              | -43%               |
-| **Total Number of Transactions**            | 477          | 302        |  (175)                 | -37%               |
-| **Average Daily Sales Value**               | $2,558.07    | $5,803     | $ 3,245                |  127%              |
-| **Average Number of Transactions per Day**  | 17           | 43         |   26                   |  154%              |
-| **Average Transaction Value**               | $150.16      | $554       | $ 404                  |  269%              |
+| Sales Statistics Comparison                | TOTAL FEB   | TOTAL MAR | Difference | % difference |
+|--------------------------------------------|-------------|-----------|------------|--------------|
+| Total sales value                          | $71,626.00  | $40,620   | $(31,006)  | -43%         |
+| Total number of website visits             | 3,136       | 2,811     | $(325)     | -10%         |
+| Total number of sales transactions         | 477         | 302       | $(175)     | -37%         |
+| Average daily sales value                  | $2,558.07   | $5,803    | $3,245     | 127%         |
+| Average number of transactions per day     | 17          | 43        | $26        | 154%         |
+| Average transaction value                  | $150.16     | $554      | $404       | 269%         |
 
 ### Most Common Complaints
 
