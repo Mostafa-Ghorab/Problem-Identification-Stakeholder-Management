@@ -24,8 +24,7 @@
 
 ---
 
-
-## DELIVERABLE 1: Qualitative and Quantitative Analysis and Recommendations
+## DELIVERABLE 1: Qualitative & Quantitative Analysis & Recommendations
 
 ### Sales Performance Comparison: Feb 2024 (29 Days) vs. Mar 2024 (31 Days)
 
@@ -50,15 +49,15 @@
 
 **Conclusion:**  
 The sales decline and negative feedback are primarily driven by:  
-1. **Checkout Issues (42.9%)**: Mandatory registration and complex steps causing cart abandonment.  
+1. **Checkout Issues (42.9%)**: Mandatory registration (implemented in the redesign) and complex steps causing cart abandonment.  
 2. **Unpopular Redesign (28.6%)**: Confusing layout and navigation.  
-3. **Slow Website (7.1%)**: Poor loading speeds.  
+3. **Slow Website (7.1%)**: Poor loading speeds due to unoptimized images.  
 4. **Navigation/Product Info Issues (14.3%)**: Difficulty finding products.  
 5. **Limited Payment Options (7.1%)**: Lack of digital wallets.  
 
 **Recommendations:**  
 - **Simplify Checkout:** Add guest checkout and reduce steps.  
-- **Redesign Layout:** Test prototypes with users.  
+- **Redesign Layout:** Test prototypes with users via A/B testing.  
 - **Optimize Speed:** Compress images and fix scripts.  
 - **Enhance Navigation:** Improve search and categories.  
 - **Add Payment Methods:** Integrate PayPal/Apple Pay.  
@@ -81,14 +80,14 @@ A rushed checkout redesign prioritizing data collection over user experience led
 
 ## DELIVERABLE 3: User Role Analysis
 
-| **User Role**                   | **Role Description**                                        | **Key Requirements**                                                                              |
-|---------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| **Guest User**                  | Browses without an account                                  | - Guest checkout<br>- Fast navigation                                                              |
-| **Registered Customer**         | Has an account for repeat purchases                         | - Saved preferences<br>- Order tracking                                                            |
-| **Admin/Website Manager**       | Manages site performance and security                       | - Analytics tools<br>- Quick bug fixes                                                             |
-| **Marketing Team**              | Runs promotions and campaigns                               | - Customer segmentation<br>- Campaign ROI data                                                     |
-| **Sales Manager**               | Oversees revenue and growth                                 | - Real-time sales dashboards<br>- Cart abandonment analysis                                        |
-| **Customer Support Team**       | Resolves user issues                                        | - Issue tracking system<br>- Knowledge base access                                                 |
+| **User Role**             | **Role Description**                          | **Key Requirements**                      |
+|---------------------------|-----------------------------------------------|--------------------------------------------|
+| **Guest User**            | Browses without an account                    | - Guest checkout<br>- Fast navigation      |
+| **Registered Customer**   | Has an account for repeat purchases           | - Saved preferences<br>- Order tracking    |
+| **Admin/Website Manager** | Manages site performance and security         | - Analytics tools<br>- Quick bug fixes     |
+| **Marketing Team**        | Runs promotions and campaigns                 | - Customer segmentation<br>- ROI data      |
+| **Sales Manager**         | Oversees revenue and growth                   | - Sales dashboards<br>- Cart analysis      |
+| **Customer Support Team** | Resolves user issues                          | - Issue tracking<br>- Knowledge base       |
 
 ---
 
@@ -96,21 +95,21 @@ A rushed checkout redesign prioritizing data collection over user experience led
 
 ### Stakeholder Overview
 
-| **Stakeholder**          | **Interest**                | **Influence** | **Key Expectations**                                         |
-|--------------------------|-----------------------------|---------------|--------------------------------------------------------------|
-| Guest User               | Low                         | Low           | Quick checkout, no registration                              |
-| Registered Customer      | High                        | Medium        | Personalized experience, loyalty rewards                     |
-| Admin/Website Manager    | Medium                      | High          | Site stability, security, and scalability                    |
-| Marketing Team           | High                        | Medium        | Accurate data for targeted campaigns                         |
-| Sales Manager            | High                        | High          | Increased conversion rates and revenue                       |
-| Customer Support Team    | Medium                      | Low           | Efficient tools to resolve issues quickly                    |
+| **Stakeholder**          | **Interest** | **Influence** | **Key Expectations**                    |
+|--------------------------|--------------|---------------|-----------------------------------------|
+| Guest User               | Low          | Low           | Quick checkout, no registration         |
+| Registered Customer      | High         | Medium        | Personalized experience, loyalty rewards|
+| Admin/Website Manager    | Medium       | **High**      | Site stability, security, scalability   |
+| Marketing Team           | High         | Medium        | Accurate data for campaigns             |
+| Sales Manager            | High         | High          | Increased conversion rates              |
+| Customer Support Team    | Medium       | Low           | Efficient issue resolution              |
 
 ### Power-Interest Grid
 
-|                          | **High Power**               | **Low Power**                |
-|--------------------------|------------------------------|------------------------------|
-| **High Interest**        | Sales Manager                | Registered Customer          |
-| **Low Interest**         | Admin/Website Manager        | Guest User, Customer Support |
+|                          | **High Power**       | **Low Power**        |
+|--------------------------|----------------------|----------------------|
+| **High Interest**        | Sales Manager        | Registered Customer  |
+| **Low Interest**         | Admin/Website Manager| Guest User, Support  |
 
 ---
 
@@ -124,17 +123,26 @@ A rushed checkout redesign prioritizing data collection over user experience led
 | **4. Conduct usability tests**    | C          | C                    | R                     | I              | I             | I                 |
 | **5. Develop new features**       | I          | I                    | R                     | C              | C             | I                 |
 | **6. Launch redesigned website**  | I          | I                    | A                     | I              | I             | I                 |
-| **7. Monitor post-launch metrics**| C          | C                    | R                     | I              | I             | I                 |
+| **7. Monitor post-launch metrics**| C          | C                    | R                     | I              | I             | **I**            |
 
 ---
 
 ## Final Recommendations
 
-1. **Immediate Actions:**  
-   - Roll back mandatory registration until guest checkout is implemented.  
-   - Initiate A/B testing for the redesigned layout.  
+### Immediate Actions:
+- **Roll back mandatory registration** until guest checkout is implemented.  
+- **Initiate A/B testing** for the redesigned layout.  
 
-2. **Long-Term Strategies:**  
-   - Build a continuous feedback loop with users.  
-   - Train the support team to handle checkout-related queries.  
+### Long-Term Strategies:
+- Build a **continuous feedback loop** with users.  
+- Train the support team to handle **checkout-related queries**.  
 
+### Next Steps:
+- Schedule a **review meeting** with stakeholders by [Date].  
+- Develop a **timeline** for image optimization and A/B testing.  
+
+---
+
+**Methodology & Data Sources**  
+- Data extracted from Northwind’s internal sales reports.  
+- Complaints analyzed from social media and customer support tickets.  
