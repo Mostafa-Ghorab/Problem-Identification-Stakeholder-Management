@@ -5,7 +5,7 @@
 **Company:** Northwind Trading - An eCommerce platform operating successfully for 4 years.  
 **Problem:** A 43% sales drop in March 2024 (first-ever decline) + rising social media complaints about the online store.  
 
-### 🕵️♂️ **Crisis Background:**
+### 🕵️ **Crisis Background:**
 1. **Website Redesign:**  
    - Launched a new website design one month before the crisis.  
    - Key changes included:  
