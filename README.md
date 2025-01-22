@@ -4,14 +4,14 @@
 
 ## Sales Performance Comparison: Feb 2024 (29 Days) vs. Mar 2024 (31 Days)
 
-| **Metric**                         | **Feb 2024**       | **Mar 2024**       | **Absolute Change** | **% Change** |
-|------------------------------------|--------------------|--------------------|---------------------|--------------|
-| Total Sales Value                  | $71,626            | $40,620            | $(31,006)           | -43%         |
-| Total Website Visits               | 3,136              | 2,811              | $(325)              | -10%         |
-| Total Sales Transactions           | 477                | 302                | $(175)              | -37%         |
-| **Average Daily Sales Value**      | $2,558.07          | $1,310.32          | $(1,247.75)         | -48.7%       |
-| **Average Daily Transactions**     | 16.45              | 9.74               | $(6.71)             | -40.8%       |
-| **Average Transaction Value (ATV)**| $150.16            | $134.50            | $(15.66)            | -10.4%       |
+| **Metric**                         | **Feb 2024**       | **Mar 2024**       | **Difference**     | **% Change** |
+|------------------------------------|--------------------|--------------------|--------------------|--------------|
+| Total Sales Value                  | $71,626.00         | $40,620.00         | $(31,006)          | -43%         |
+| Total Website Visits               | 3,136              | 2,811              | $(325)             | -10%         |
+| Total Sales Transactions           | 477                | 302                | $(175)             | -37%         |
+| **Average Daily Sales Value**      | $2,469.86          | $1,310.32          | $(1,159.54)        | -47%         |
+| **Average Daily Transactions**     | 16.45              | 9.74               | $(6.71)            | -41%         |
+| **Average Transaction Value (ATV)**| $150.16            | $134.50            | $(15.66)           | -10%         |
 
 ### Most Common Complaints (Total Complaints: 14)
 
