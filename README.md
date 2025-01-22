@@ -2,7 +2,7 @@
 
 ## DELIVERABLE 1: Qualitative and Quantitative Analysis and Recommendations
 
-## Sales Performance Comparison: Feb 2024 (29 Days) vs. Mar 2024 (31 Days)
+### Sales Performance Comparison: Feb 2024 (29 Days) vs. Mar 2024 (31 Days)
 
 | **Metric**                         | **Feb 2024**       | **Mar 2024**       | **Difference**     | **% Change** |
 |------------------------------------|--------------------|--------------------|--------------------|--------------|
@@ -10,8 +10,8 @@
 | Total Website Visits               | 3,136              | 2,811              | $(325)             | -10%         |
 | Total Sales Transactions           | 477                | 302                | $(175)             | -37%         |
 | **Average Daily Sales Value**      | $2,469.86          | $1,310.32          | $(1,159.54)        | -47%         |
-| **Average Daily Transactions**     | 17                 | 11                 | $(6)               | -37%         |
-| **Average Transaction Value (ATV)**| $150.16            | $134.50            | $(15.66)           | -10%         |
+| **Average Daily Transactions**     | 16.45              | 9.74               | $(6.71)            | -41%         |
+| **Average Transaction Value (ATV)**| $150.16            | $134.50            | $(15.66)           | -10.4%       |
 
 ### Most Common Complaints (Total Complaints: 14)
 
@@ -112,6 +112,4 @@ A rushed checkout redesign prioritizing data collection over user experience led
 2. **Long-Term Strategies:**  
    - Build a continuous feedback loop with users.  
    - Train the support team to handle checkout-related queries.  
-
-
 
