@@ -10,7 +10,7 @@
 | Total Website Visits               | 3,136              | 2,811              | $(325)             | -10%         |
 | Total Sales Transactions           | 477                | 302                | $(175)             | -37%         |
 | **Average Daily Sales Value**      | $2,469.86          | $1,310.32          | $(1,159.54)        | -47%         |
-| **Average Daily Transactions**     | 16.45              | 9.74               | $(6.71)            | -41%         |
+| **Average Daily Transactions**     | 17                 | 11                 | $(6)               | -37%         |
 | **Average Transaction Value (ATV)**| $150.16            | $134.50            | $(15.66)           | -10%         |
 
 ### Most Common Complaints (Total Complaints: 14)
