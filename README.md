@@ -6,11 +6,11 @@
 
 | **Metric**                                  | **Feb-24**   | **Mar-24** | **Difference (Value)** | **Difference (%)** |
 |---------------------------------------------|--------------|------------|------------------------|--------------------|
-| **Total Sales Value**                       | $71,626.00   | $40,620    | $31,006                | 43%                |
-| **Total Number of Transactions**            | 477          | 302        | 175                    | 37%                |
-| **Average Daily Sales Value**               | $2,558.07    | $5,803     | $(3,245)               | -127%              |
-| **Average Number of Transactions per Day**  | 17           | 43         | -26                    | -154%              |
-| **Average Transaction Value**               | $150.16      | $554       | $(404)                 | -269%              |
+| **Total Sales Value**                       | $71,626.00   | $40,620    | $(31,006)              | -43%               |
+| **Total Number of Transactions**            | 477          | 302        |  (175)                 | -37%               |
+| **Average Daily Sales Value**               | $2,558.07    | $5,803     | $ 3,245                |  127%              |
+| **Average Number of Transactions per Day**  | 17           | 43         |   26                   |  154%              |
+| **Average Transaction Value**               | $150.16      | $554       | $ 404                  |  269%              |
 
 ### Most Common Complaints
 
