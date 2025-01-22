@@ -77,20 +77,15 @@ The key issue lies in a poorly executed checkout redesign that prioritizes data 
 | **Sales Manager**              | Oversees sales performance and strategy            | Requires insights into sales trends and effective conversion strategies | High – Influences sales and revenue decisions |
 | **Customer Support Team Member** | Handles customer issues and inquiries             | Requires an easy-to-use support system and prompt problem alerts | Medium – Influences customer satisfaction   |
 
-### Power – Interest Grid:
-- **Low Interest – High Influence:**  
-  - Admin/Website Manager
+### Power – Interest Grid
 
-- **High Interest – High Influence:**  
-  - Sales Manager  
-  - Marketing Team Member
-
-- **Low Interest – Low Influence:**  
-  - Guest User
-
-- **High Interest – Low Influence:**  
-  - Registered Customer  
-  - Customer Support Team Member
++----------------------------------------+---------------------------------------------+
+| **Low Interest – High Influence**      | **High Interest – High Influence**          |
+| Admin/Website Manager                  | Sales Manager, Marketing Team Member        |
++----------------------------------------+---------------------------------------------+
+| **Low Interest – Low Influence**       | **High Interest – Low Influence**           |
+| Guest User                             | Registered Customer, Customer Support Team  |
++----------------------------------------+---------------------------------------------+
 
 ---
 
