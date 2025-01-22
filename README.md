@@ -16,11 +16,11 @@
 
 | **Ref** | **Complaint Type**                 | **Quantity** | **%** |
 |---------|------------------------------------|--------------|-------|
-| 1       | Checkout Issues                    | 6            | 40%   |
-| 2       | Website Design/Layout Issues       | 4            | 27%   |
-| 3       | Website Performance                | 1            | 7%    |
-| 4       | Navigation/Product Info            | 2            | 13%   |
-| 5       | Payment Options                    | 1            | 7%    |
+| 1       | Checkout Issues                    | 6            | 42.9% |
+| 2       | Website Design/Layout Issues       | 4            | 28.6% |
+| 3       | Website Performance                | 1            | 7.1%  |
+| 4       | Navigation/Product Info            | 2            | 14.3% |
+| 5       | Payment Options                    | 1            | 7.1%  |
 
 **Conclusion:**  
 The drop in sales and negative feedback are primarily attributed to website issues, specifically:
