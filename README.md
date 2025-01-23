@@ -132,9 +132,3 @@ A rushed checkout redesign prioritizing data collection over user experience led
 ### Next Steps:
 - Schedule a **review meeting** with stakeholders.  
 - Develop a **timeline** for image optimization and A/B testing.  
-
----
-
-**Methodology & Data Sources**  
-- Data extracted from Northwind’s internal sales reports.  
-- Complaints analyzed from social media and customer support tickets.  
