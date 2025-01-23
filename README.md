@@ -130,7 +130,7 @@ A rushed checkout redesign prioritizing data collection over user experience led
 - Train the support team to handle **checkout-related queries**.  
 
 ### Next Steps:
-- Schedule a **review meeting** with stakeholders by [Date].  
+- Schedule a **review meeting** with stakeholders.  
 - Develop a **timeline** for image optimization and A/B testing.  
 
 ---
