@@ -107,15 +107,22 @@ A rushed checkout redesign prioritizing data collection over user experience led
 
 ## DELIVERABLE 5: RACI MATRIX
 
-| **Task**                          | Guest User | Registered Customer | Admin/Website Manager | Marketing Team | Sales Manager | Customer Support |
-|-----------------------------------|------------|----------------------|-----------------------|----------------|---------------|-------------------|
-| **1. Identify website issues**    | I          | C                    | R                     | C              | C             | C                 |
-| **2. Prioritize requirements**    | I          | C                    | A                     | C              | C             | I                 |
-| **3. Redesign checkout process**  | I          | C                    | R                     | C              | C             | I                 |
-| **4. Conduct usability tests**    | C          | C                    | R                     | I              | I             | I                 |
-| **5. Develop new features**       | I          | I                    | R                     | C              | C             | I                 |
-| **6. Launch redesigned website**  | I          | I                    | A                     | I              | I             | I                 |
-| **7. Monitor post-launch metrics**| C          | C                    | R                     | I              | I             | **I**            |
+| **Task**                          | Guest User <br> *(Non-registered visitor)* | Registered Customer <br> *(Loyalty member)* | Admin/Website Manager <br> *(Technical lead)* | Marketing Team <br> *(Campaigns & data)* | Sales Manager <br> *(Revenue focus)* | Customer Support <br> *(Issue resolution)* |
+|-----------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+| **1. Identify website issues**    | I                          | C                          | R                          | C                          | A                          | C                          |
+| **2. Prioritize requirements**    | I                          | C                          | A                          | C                          | C                          | I                          |
+| **3. Redesign checkout process**  | I                          | C                          | R                          | A                          | C                          | I                          |
+| **4. Conduct usability tests**    | C                          | C                          | R                          | I                          | A                          | C                          |
+| **5. Develop new features**       | I                          | I                          | A                          | C                          | C                          | I                          |
+| **6. Launch redesigned website**  | I                          | I                          | A                          | C                          | I                          | I                          |
+| **7. Monitor post-launch metrics**| C                          | C                          | R                          | I                          | I                          | A                          |
+
+**Legend:**  
+- **R (Responsible):** Executes the task.  
+- **A (Accountable):** Approves and owns the outcome.  
+- **C (Consulted):** Provides input before action.  
+- **I (Informed):** Notified after completion.
+
 
 ---
 
